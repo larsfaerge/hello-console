@@ -8,6 +8,8 @@ namespace ConsoleApp1
         {
             Console.WriteLine("just another line");
             Console.WriteLine("just another line 2");
+            Console.WriteLine("feature branch");
+
             Console.WriteLine("Hello World!");
         }
     }
