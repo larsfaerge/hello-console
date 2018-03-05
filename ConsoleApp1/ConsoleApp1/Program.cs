@@ -7,9 +7,8 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("just another line");
-            Console.WriteLine("just another line 2");
             Console.WriteLine("feature branch");
-
+            Console.WriteLine("feature branch 2");
             Console.WriteLine("Hello World!");
         }
     }
