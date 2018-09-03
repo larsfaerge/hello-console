@@ -9,6 +9,7 @@ namespace ConsoleApp1
             Console.WriteLine("just another line");
             Console.WriteLine("feature branch");
             Console.WriteLine("feature branch 2");
+            Console.WriteLine("feature branch 3");
             Console.WriteLine("Hello World!");
         }
     }
